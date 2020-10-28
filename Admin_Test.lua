@@ -1,4 +1,4 @@
-local plugin_c = require(script.plugin_command) --plugin_command.mmd
+local plugin_c = require(script.plugin_command) --plugin_command.lua
 local Players = game:GetService("Players")
 local Prefix = "!"
 local AdminsDef = {}
