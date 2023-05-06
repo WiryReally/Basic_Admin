@@ -1,2 +1,2 @@
 # Basic_Admin
-My Frist Admin in Roblox, 
+My First Admin in Roblox, 
